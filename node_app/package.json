@@ -1,0 +1,12 @@
+{
+  "name": "docker-node-custom-homepage",
+  "version": "1.0.0",
+  "description": "Node.js Docker image with a custom homepage",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
