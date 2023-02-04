@@ -1,8 +1,0 @@
---2023-02-05 01:10:48--  https://raw.github.com/abdennour/miscs.sh/master/killport
-Resolving raw.github.com (raw.github.com)... 2606:50c0:8002::154, 2606:50c0:8003::154, 2606:50c0:8001::154, ...
-Connecting to raw.github.com (raw.github.com)|2606:50c0:8002::154|:443... connected.
-HTTP request sent, awaiting response... 301 Moved Permanently
-Location: https://raw.githubusercontent.com/abdennour/miscs.sh/master/killport [following]
---2023-02-05 01:10:49--  https://raw.githubusercontent.com/abdennour/miscs.sh/master/killport
-Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 2405:200:1607:2820:41::36, 49.44.79.236
-Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|2405:200:1607:2820:41::36|:443... 
