@@ -1,7 +1,0 @@
-1. Dockerise nodejs application & java application (Customize their home pages)
-2. with db connectivity (db should be run on a different container)
-3. Application should be accessible with a secure domain(SSL)
-
-
-29200600002247
-BARB0VIDJAI
